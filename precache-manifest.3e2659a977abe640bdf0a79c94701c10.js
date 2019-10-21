@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "580bd0a585fda769667c11d64f77ed1f",
+    "revision": "cf3031a30b3a3b2ae6cb0bce60411702",
     "url": "/sephora/index.html"
   },
   {
