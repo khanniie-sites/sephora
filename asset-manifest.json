@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sephora/static/css/main.e0614a38.chunk.css",
-    "main.js": "/sephora/static/js/main.f2da60b4.chunk.js",
-    "main.js.map": "/sephora/static/js/main.f2da60b4.chunk.js.map",
+    "main.css": "/sephora/static/css/main.cdd807d3.chunk.css",
+    "main.js": "/sephora/static/js/main.e352864b.chunk.js",
+    "main.js.map": "/sephora/static/js/main.e352864b.chunk.js.map",
     "runtime-main.js": "/sephora/static/js/runtime-main.f577bd63.js",
     "runtime-main.js.map": "/sephora/static/js/runtime-main.f577bd63.js.map",
     "static/js/2.52bfb6bf.chunk.js": "/sephora/static/js/2.52bfb6bf.chunk.js",
     "static/js/2.52bfb6bf.chunk.js.map": "/sephora/static/js/2.52bfb6bf.chunk.js.map",
     "index.html": "/sephora/index.html",
-    "precache-manifest.3e2659a977abe640bdf0a79c94701c10.js": "/sephora/precache-manifest.3e2659a977abe640bdf0a79c94701c10.js",
+    "precache-manifest.52cf04f259bf6cc1157e7d656492679b.js": "/sephora/precache-manifest.52cf04f259bf6cc1157e7d656492679b.js",
     "service-worker.js": "/sephora/service-worker.js",
-    "static/css/main.e0614a38.chunk.css.map": "/sephora/static/css/main.e0614a38.chunk.css.map",
+    "static/css/main.cdd807d3.chunk.css.map": "/sephora/static/css/main.cdd807d3.chunk.css.map",
     "static/media/blackStar.svg": "/sephora/static/media/blackStar.d0367478.svg",
     "static/media/logo.svg": "/sephora/static/media/logo.62476375.svg",
     "static/media/whiteStar.svg": "/sephora/static/media/whiteStar.f02a9cc4.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f577bd63.js",
     "static/js/2.52bfb6bf.chunk.js",
-    "static/css/main.e0614a38.chunk.css",
-    "static/js/main.f2da60b4.chunk.js"
+    "static/css/main.cdd807d3.chunk.css",
+    "static/js/main.e352864b.chunk.js"
   ]
 }

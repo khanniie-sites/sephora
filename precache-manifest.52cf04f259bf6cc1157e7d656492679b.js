@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf3031a30b3a3b2ae6cb0bce60411702",
+    "revision": "f33bb128e51e8efeb0d150689f890a73",
     "url": "/sephora/index.html"
   },
   {
-    "revision": "7d9157f565cef5148ac5",
-    "url": "/sephora/static/css/main.e0614a38.chunk.css"
+    "revision": "cdd9113cbaea2e35a76f",
+    "url": "/sephora/static/css/main.cdd807d3.chunk.css"
   },
   {
     "revision": "90a45182400e30983404",
     "url": "/sephora/static/js/2.52bfb6bf.chunk.js"
   },
   {
-    "revision": "7d9157f565cef5148ac5",
-    "url": "/sephora/static/js/main.f2da60b4.chunk.js"
+    "revision": "cdd9113cbaea2e35a76f",
+    "url": "/sephora/static/js/main.e352864b.chunk.js"
   },
   {
     "revision": "4821326320fdfcfb1067",
